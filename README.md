@@ -2,7 +2,7 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Text summarizing your project.
+Text summarizing your project. The hummingbird project helped us learn essential R skills, such as the ggplot and dplyr libraries (functions) that are used constantly. Furthermore, it showed us how to visualize data from a large dataset. The main features and functionalities were ggplot to visualize data and dyplr to arrange and organize data. The code generated multiple bar plots with different variables. 
 
 ## Project Organization
 ------------
